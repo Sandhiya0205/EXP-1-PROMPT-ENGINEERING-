@@ -86,6 +86,9 @@ Transformers revolutionized AI by replacing sequential recurrence (RNNs, LSTMs) 
 * **Challenges**: Scaling requires significant computational resources, increases environmental costs, and raises concerns about bias, misuse, and safety.
 
 ---
+## Output:
+https://github.com/Sandhiya0205/EXP-1-PROMPT-ENGINEERING-/blob/main/Fundamentals%20of%20Generative%20AI%20and%20Large%20Language%20Models%20(LLMs)%20(2).pdf
+
 
 ## Result
 
